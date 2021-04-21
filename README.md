@@ -1,0 +1,1 @@
+This is Gord's first git project!
